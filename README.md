@@ -14,6 +14,7 @@ KNN
 
 UnSupervrised:
 K-Means
+Principal Component Analysis
 
 Deep Learning:
 Neural Network
