@@ -1,22 +1,26 @@
 Searching Algorithm:
-BFS
-DFS
+
+1.BFS
+2.DFS
 
 Machine Learning Algorithm:
 
 Supervised:
-Linear Regression
-Logistic Regression
-Decision Tree(CART)
-Naive Bayes
-SVM(Linear)
-KNN
+
+3.Linear Regression
+4.Logistic Regression
+5.Decision Tree(CART)
+6.Naive Bayes
+7.SVM(Linear)
+8.KNN
 
 UnSupervrised:
-K-Means
-Principal Component Analysis
+
+9.K-Means
+10.Principal Component Analysis
 
 Deep Learning:
+
 Neural Network
 (i)AND Gate(Can be also used for MNIST Dataset)
 
