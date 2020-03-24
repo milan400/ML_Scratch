@@ -19,6 +19,7 @@ UnSupervrised:
 9.K-Means
 10.Principal Component Analysis
 11. K-Means
+12. Apriori Algorithm 
 
 Deep Learning:
 
